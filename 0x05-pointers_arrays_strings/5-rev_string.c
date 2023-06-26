@@ -6,6 +6,7 @@
  */
 void rev_str(char *s)
 {
+	char rev = s[0];
 	int counter = 0;
 	int i;
 
